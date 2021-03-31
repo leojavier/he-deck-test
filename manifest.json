@@ -1,7 +1,7 @@
 {
   "name": "HE Presentation",
   "short_name": "HE",
-  "start_url": "/?home=true",
+  "start_url": "/he-deck-test/",
   "icons": [
     {
       "src": "icons/manifest-icon-192.png",
